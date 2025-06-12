@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... UI Design Projects
 - 📫 How to reach me ... ansongtv12@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... i love music and gaming
+- ⚡ Fun fact: ... I love music and gaming
 
 <!---
 VisionWebdev6006/VisionWebdev6006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
